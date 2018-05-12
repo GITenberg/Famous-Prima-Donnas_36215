@@ -1,0 +1,34 @@
+_repo: Famous-Prima-Donnas_36215
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strang, Lewis Clinton
+    birthdate: 1869
+    deathdate: 1935
+    gutenberg_agent_id: '38145'
+    url: http://www.gutenberg.org/2009/agents/38145
+description: ''
+gutenberg_issued: '2011-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36215'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Operetta'
+- !lcc 'ML'
+- !lcsh 'Actresses -- United States'
+- !lcsh 'Singers'
+tableOfContents: Introduction -- Alice Nielsen -- Virginia Earle -- Lillian Russell
+  -- Josephine Hall -- Mabelle Gilman -- Fay Templeton -- Madge Lessing -- Jessie
+  Bartlett Davis -- Edna Wallace Hopper -- Paula Edwardes -- Lulu Glaser -- Minnie
+  Ashley -- Edna May -- Marie Celeste -- Christie MacDonald       -- Marie Dressler
+  -- Della Fox -- Camille D'Arville -- Marie Tempest -- Maud Raymond -- Pauline Hall
+  -- Hilda Clark.
+title: Famous Prima Donnas
+url: http://www.gutenberg.org/ebooks/36215
